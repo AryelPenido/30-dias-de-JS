@@ -17,7 +17,7 @@ Controlando variavéis CSS com JS https://dia3js.netlify.com/
 Bateria de exercicios com as funções disponíveis em Array.prototype
 
 ### Dia 5
-Uma galeria com flex e js
+Uma galeria com flex e js https://dia5js.netlify.com/
 
 ### Dia 6
 Busca com sugestões https://dia6js.netlify.com
