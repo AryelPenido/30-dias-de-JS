@@ -20,7 +20,7 @@ Bateria de exercicios com as funções disponíveis em Array.prototype
 Uma galeria com flex e js
 
 ### Dia 6
-Busca com sugestões dia6js.netlify.com
+Busca com sugestões https://dia6js.netlify.com
 
 ### Dia 7
 Bateria de exercicios com as funções disponíveis em Array.prototype
