@@ -27,3 +27,6 @@ Bateria de exercicios com as funções disponíveis em Array.prototype
 
 ### Dia 8
 Trabalhando com eventos transições e contexto https://dia8js.netlify.com
+
+### Dia 9
+lista de macetes do console que ajudam no desenvolvimento
