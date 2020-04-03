@@ -30,3 +30,6 @@ Trabalhando com eventos transições e contexto https://dia8js.netlify.com
 
 ### Dia 9
 lista de macetes do console que ajudam no desenvolvimento
+
+### Dia 10
+marcar varias checkboxes com um só clique
