@@ -4,7 +4,7 @@
 Minha versão do desafio, provavelmente vai durar mais do que 30 dias, colocando aqui pra ver se dessa vez eu termino<br>
 site do curso https://javascript30.com/
 
-Colocando aqui pra ver se dessa vez termino
+
 
 ### Dia 1
 Drum-kit com JS https://dia1js.netlify.com/
