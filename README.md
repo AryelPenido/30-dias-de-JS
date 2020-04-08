@@ -38,3 +38,7 @@ marcar varias checkboxes com um só clique
 ### Dia 11
 Um video player customizado.  https://playercustom.netlify.com
     feature extra: FullScreen
+
+
+### Dia 12
+Konami code
