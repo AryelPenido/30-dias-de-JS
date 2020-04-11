@@ -42,3 +42,9 @@ Um video player customizado.  https://playercustom.netlify.com
 
 ### Dia 12
 Konami code
+
+### Dia 13
+Slide in on scroll, imagens aparecem e somem na tela de acordo com sua posição 
+
+### Dia 14
+copiar e referenciar, diferenças em strings, number e objetos
