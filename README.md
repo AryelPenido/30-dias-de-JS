@@ -51,3 +51,8 @@ copiar e referenciar, diferenças em strings, number e objetos
 
 ### Dia 15
 Usando LocalStorage + desafio  https://dia15localstorage.netlify.app/
+
+gerou um resumo sobre quais sletores posso usar em uma querySelector
+
+### Dia 16
+efeitos criados com CSS de acordo com o movimento do mouse
