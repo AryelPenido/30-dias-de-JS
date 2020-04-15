@@ -48,3 +48,6 @@ Slide in on scroll, imagens aparecem e somem na tela de acordo com sua posição
 
 ### Dia 14
 copiar e referenciar, diferenças em strings, number e objetos
+
+### Dia 15
+Usando LocalStorage + desafio  https://dia15localstorage.netlify.app/
