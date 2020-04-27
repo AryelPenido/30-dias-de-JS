@@ -56,3 +56,18 @@ gerou um resumo sobre quais sletores posso usar em uma querySelector
 
 ### Dia 16
 efeitos criados com CSS de acordo com o movimento do mouse
+
+### Dia 17
+Sort
+
+### Dia 18
+somando tempo com map e reduce (como uma playlist do youtube);
+
+### Dia 20
+reconhecimento de fala direto no Browser 
+
+### Dia 21
+Geolocalização (da pra simumlar com iphone, android precisa de movimento real)
+
+### Dia 22
+Seguindo links 
