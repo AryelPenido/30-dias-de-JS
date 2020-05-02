@@ -71,3 +71,8 @@ Geolocalização (da pra simumlar com iphone, android precisa de movimento real)
 
 ### Dia 22
 Seguindo links 
+
+### Dia 23
+transformando texto em audio, speechSyntesis
+obs: No windows não existem varias opções de voz, apenas uma
+
