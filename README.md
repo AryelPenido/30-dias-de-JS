@@ -76,3 +76,9 @@ Seguindo links
 transformando texto em audio, speechSyntesis
 obs: No windows não existem varias opções de voz, apenas uma
 
+### Dia 24
+sticky nav
+
+### Dia 25
+conceitos sobre captura de eventos, bubbling e propagação
+
