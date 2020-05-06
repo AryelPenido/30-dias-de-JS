@@ -85,3 +85,7 @@ conceitos sobre captura de eventos, bubbling e propagação
 ### Dia 26
 Seguindo links parte 2
 
+### Dia 27
+click and drag slider
+
+
