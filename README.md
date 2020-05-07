@@ -88,4 +88,11 @@ Seguindo links parte 2
 ### Dia 27
 click and drag slider
 
+### Dia 28
+Slider de velocidade para player de video
 
+### Dia 29
+timer
+
+### Dia 30
+Whack a Mole Game
